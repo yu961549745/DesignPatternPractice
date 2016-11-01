@@ -1,4 +1,4 @@
-package build.singleton;
+package builder.singleton;
 
 public class ThreadSafeSimpleSingleton {
 	private static final ThreadSafeSimpleSingleton INSTANCE = new ThreadSafeSimpleSingleton();

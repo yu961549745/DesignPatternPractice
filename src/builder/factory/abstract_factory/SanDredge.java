@@ -1,4 +1,4 @@
-package build.factory.abstract_factory;
+package builder.factory.abstract_factory;
 
 public class SanDredge implements Dredge {
 	@Override

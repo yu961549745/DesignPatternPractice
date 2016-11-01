@@ -1,6 +1,6 @@
-package build.factory.factory_method;
+package builder.factory.factory_method;
 
-import build.factory.Car;
+import builder.factory.Car;
 
 public class AudiCar implements Car {
 	@Override

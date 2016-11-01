@@ -1,6 +1,6 @@
-package build.factory.abstract_factory;
+package builder.factory.abstract_factory;
 
-import build.factory.Car;
+import builder.factory.Car;
 
 public interface Trunk extends Car {
 	public void load();

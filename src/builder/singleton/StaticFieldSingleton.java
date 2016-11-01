@@ -1,4 +1,4 @@
-package build.singleton;
+package builder.singleton;
 
 public class StaticFieldSingleton {
 	private static class SingletonHolder {

@@ -1,4 +1,4 @@
-package build.singleton;
+package builder.singleton;
 
 public class DoubleCheckSingleton {
 	private static DoubleCheckSingleton INSTANCE = null;

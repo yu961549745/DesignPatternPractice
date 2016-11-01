@@ -1,6 +1,6 @@
-package build.factory.simple_factory;
+package builder.factory.simple_factory;
 
-import build.factory.Car;
+import builder.factory.Car;
 
 public class CarFactory {
 	public static Car getCar(String name) {

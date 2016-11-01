@@ -1,4 +1,4 @@
-package build.singleton;
+package builder.singleton;
 
 public class ThreadSafeLazySingleton {
 	private static ThreadSafeLazySingleton INSTANCE = null;
