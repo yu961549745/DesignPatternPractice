@@ -2,7 +2,7 @@
 设计模式学完之后名字和实现对不上，写点示例代码好记一些。
 
 含以下设计模式：
-+ 创建型模式
++ [创建型模式](https://github.com/yu961549745/DesignPatternPractice/tree/master/src/builder)
     + [工厂模式](https://github.com/yu961549745/DesignPatternPractice/tree/master/src/builder/factory)
         + 简单工厂
         + 工厂方法
