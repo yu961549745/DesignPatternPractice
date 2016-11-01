@@ -9,7 +9,7 @@
         + 抽象工厂
     + [单例模式](https://github.com/yu961549745/DesignPatternPractice/tree/master/src/builder/singleton)
     + [建造者模式](https://github.com/yu961549745/DesignPatternPractice/tree/master/src/builder/builder)
-    + 原型模式
+    + [原型模式](https://github.com/yu961549745/DesignPatternPractice/tree/master/src/builder/prototype)
 + 结构型模式
     + 适配器模式
     + 桥接模式
