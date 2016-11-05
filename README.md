@@ -10,22 +10,23 @@
     + [单例模式](https://github.com/yu961549745/DesignPatternPractice/tree/master/src/builder/singleton)
     + [建造者模式](https://github.com/yu961549745/DesignPatternPractice/tree/master/src/builder/builder)
     + [原型模式](https://github.com/yu961549745/DesignPatternPractice/tree/master/src/builder/prototype)
-+ 结构型模式
-    + 适配器模式
-    + 桥接模式
-    + 过滤器模式
-    + 组合模式
-    + 装饰器模式
-    + 外观模式
-    + 享元模式
-    + 代理模式
++ [结构型模式](https://github.com/yu961549745/DesignPatternPractice/tree/master/src/struct)
+    + 功能拓展型
+        + [适配器模式](https://github.com/yu961549745/DesignPatternPractice/tree/master/src/struct/functional/adapter)
+        + [桥接模式](https://github.com/yu961549745/DesignPatternPractice/tree/master/src/struct/functional/bridge)
+        + [代理模式](https://github.com/yu961549745/DesignPatternPractice/tree/master/src/struct/functional/proxy)
+        + [装饰器模式](https://github.com/yu961549745/DesignPatternPractice/tree/master/src/struct/functional/decorator)
+    + 结构简化型
+        + 组合模式
+        + 外观模式
+        + 享元模式
 + 行为型模式
     + 责任链模式
     + 命令模式
     + 解释器模式
-    + 中介模式
     + 备忘录模式
     + 状态模式
+    + 中介模式
     + 观察者模式
     + 访问者模式
     + 模板模式
