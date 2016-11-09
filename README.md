@@ -17,9 +17,9 @@
         + [代理模式](https://github.com/yu961549745/DesignPatternPractice/tree/master/src/struct/functional/proxy)
         + [装饰器模式](https://github.com/yu961549745/DesignPatternPractice/tree/master/src/struct/functional/decorator)
     + 结构简化型
-        + 组合模式
-        + 外观模式
-        + 享元模式
+        + [组合模式](https://github.com/yu961549745/DesignPatternPractice/tree/master/src/struct/simplify/compsite)
+        + [外观模式](https://github.com/yu961549745/DesignPatternPractice/tree/master/src/struct/simplify/facade)
+        + [享元模式](https://github.com/yu961549745/DesignPatternPractice/tree/master/src/struct/simplify/flyweight)
 + 行为型模式
     + 责任链模式
     + 命令模式
